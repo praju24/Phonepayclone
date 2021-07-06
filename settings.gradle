@@ -1,0 +1,2 @@
+rootProject.name = "Phone pay clone"
+include ':app'
